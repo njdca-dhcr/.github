@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Welcome to the DHCR Data Center
 
 <p align="center">
