@@ -18,18 +18,20 @@ initiatives. 📊📈
 
 ## Contents
 
-This account is used to store the following resources: - Documentation
-📚: Guides and manuals on data management practices, governance
-frameworks, and technical procedures. - Code 💻: Scripts and tools for
-data processing, analysis, and visualization. - Projects 📝:
-Collaborative projects with detailed descriptions, milestones, and
-progress updates. - Issues 🐛: A platform for reporting bugs, requesting
+This account is used to store the following resources: 
+- **Documentation** 📚: Guides and manuals on data management practices, governance
+frameworks, and technical procedures.
+- **Code** 💻: Scripts and tools for
+data processing, analysis, and visualization.
+- **Projects** 📝: Collaborative projects with detailed descriptions, milestones, and
+progress updates.
+- **Issues** 🐛: A platform for reporting bugs, requesting
 features, and discussing improvements to data products.
 
 ## Collaboration and Support
 
 We encourage collaboration and open communication. If you have any
 questions, suggestions, or need support, please feel free to reach out
-through the following channels: - Email:
-[dhcrdatacenter\@dca.nj.gov](mailto:dhcrdatacenter@dca.nj.gov) -
-Microsoft Teams: Use the "DHCR Data Center" team.
+through the following channels: 
+- Email: [dhcrdatacenter\@dca.nj.gov](mailto:dhcrdatacenter@dca.nj.gov)
+- Microsoft Teams: Use the "DHCR Data Center" team.
