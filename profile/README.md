@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the GitHub organizationa of the [Division of Housing and Community Resources](https://www.nj.gov/dca//dhcr/index.shtml) (DHCR) Data Center within the New Jersey Department of Community Affairs. Our mission is to enhance data practices across the DHCR, ensuring data accuracy, accessibility, and security while complying with federal and state regulations. This repository is intended to foster collaboration with both internal and external stakeholders, providing resources, documentation, and tools to support our data analytics initiatives. 📊📈
+Welcome to the GitHub organizational account of the [Division of Housing and Community Resources](https://www.nj.gov/dca//dhcr/index.shtml) (DHCR) Data Center within the New Jersey Department of Community Affairs. Our mission is to enhance data practices across the DHCR, ensuring data accuracy, accessibility, and security while complying with federal and state regulations. This repository is intended to foster collaboration with both internal and external stakeholders, providing resources, documentation, and tools to support our data analytics initiatives. 📊📈
 
 ## Contents
 
