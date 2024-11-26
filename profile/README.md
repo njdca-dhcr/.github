@@ -1,7 +1,7 @@
 # Welcome to the DHCR Data Center
 
 <p align="center">
-  <img width="309" height="187" src="/profile/logo.png">
+  <img width="100%" height="100%" src="/profile/Data Center Logo.png">
 </p>
 
 ## Overview
